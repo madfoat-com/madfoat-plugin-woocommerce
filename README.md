@@ -1,29 +1,11 @@
-# README #
+# Madfoat Payments Plugin for WooCommerce #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This plugin enables your WooCommerce powered platform to start accepting payments via Madfoat.
 
-### What is this repository for? ###
+### How to Install Madfoat’s WooCommerce Plugin? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Download package and make zip file of the 'wc-telr' directory.
+* Log in to the WordPress administration system, from the side menu select the Plugins option and click on 'Add New' button .
+* Upload the created zip file and activate
+* Locate the line for Madfoat in plugins page and click on setting option
+* Add your 'Store ID' and 'Authentication Key' in the payment setting page and fill all required fileds (Note : If you have not 'Store ID' and 'Authentication Key' please contact with Madfoat support)
