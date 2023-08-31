@@ -25,7 +25,7 @@ function wc_gateway_madfoat()
  
         $plugin = new WC_Gateway_Madfoat_Plugin(__FILE__);
     }
-
+	
     return $plugin;
 }
  
